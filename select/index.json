@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "二人三脚",
+  "base_artist": "常闇トワ",
+  "createdAt": "2025-12-18T13:51:57.005033Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "二人三脚",
+      "artist": "MISONO",
+      "has_synced": false,
+      "path": "select/01_二人三脚_MISONO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "二人三脚 ver.2013",
+      "artist": "misono",
+      "has_synced": false,
+      "path": "select/02_二人三脚_ver.2013_misono.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "二人三脚 feat. 猫汰つな",
+      "artist": "常闇トワ",
+      "has_synced": false,
+      "path": "select/03_二人三脚_feat._猫汰つな_常闇トワ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "二人三脚 feat. 猫汰つな",
+      "artist": "常闇トワ",
+      "has_synced": false,
+      "path": "select/pl_01_二人三脚_feat._猫汰つな_常闇トワ.txt"
+    }
+  ]
+}
